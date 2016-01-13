@@ -1,3 +1,3 @@
-print '1test'
+print 'test'
 print '1'
 print '2'
